@@ -1,2 +1,2 @@
 # hello-world
-coding-dairy 
+coding-diary
